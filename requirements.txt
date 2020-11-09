@@ -1,0 +1,3 @@
+selenium
+robotframework
+robotframework-seleniumlibrary==3.3.1
