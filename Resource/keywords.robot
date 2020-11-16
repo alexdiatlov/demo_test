@@ -12,3 +12,7 @@ Library  SeleniumLibrary
     Input Text  id=loginform-identity  zamovnuk@playtender.com
     Input Text  id=loginform-password  qwe123qwe
     Click Button  xpath=//*[@id="loginform"]//button[@class="btn btn-lg w-lg-x2 btn-success js-submit-btn"]
+
+
+
+######################################    СТВОРЕННЯ ПЛАНУ    ##################################################
